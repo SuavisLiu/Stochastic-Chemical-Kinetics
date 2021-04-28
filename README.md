@@ -15,7 +15,9 @@ This project contains three algorithm modelling the chemical reactions.
     T: (type = float) final time of the reaction 
     r: number of possible reactions
     n: numebr of different kinds of compounds
-    return: xT --- the final status up to time T.
+    return
+    x: the list that contains all steps for the reactions
+    t: a list of jump time """
 
 
 ## Tau Leaping algorithm 
