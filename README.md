@@ -1,7 +1,7 @@
 # Stochastic Chemical Kinetics
 
-## Intro
-This project contains three algorithm modelling the chemical reactions. 
+## Introduction 
+This project contains three algorithm modelling the chemical reactions.
 
 ## Next Reaction
     
