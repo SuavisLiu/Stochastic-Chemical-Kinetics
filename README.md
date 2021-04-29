@@ -5,7 +5,7 @@ This project contains three algorithm modelling the chemical reactions.
 
 ## Next Reaction
 
-* nextReaction.py contains the following main function. 
+** nextReaction.py contains the following main function. **
 
 Inspired by Bill
 
@@ -53,6 +53,7 @@ It will simulate Xt, the number of compounds in the reactions.
     
     
 * Returns 
+
     x: the list that contains all steps for the reactions
     
     t: a list of jump time 
@@ -82,7 +83,7 @@ It will simulate Xt, the number of compounds in the reactions.
     h: step size
     
     
-* return
+* Returns
    
   x: the list that contains all steps for the reactions
     
