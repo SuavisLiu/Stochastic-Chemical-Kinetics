@@ -24,9 +24,9 @@ It will simulate Xt, the number of compounds in the reactions.
 
 * Returns 
 
-x: the list that contains all steps for the reactions
-
-t: a list of jump time 
+    x: the list that contains all steps for the reactions
+    
+    t: a list of jump time 
     
     
 ## Gillespie Algorithm
