@@ -66,3 +66,11 @@ This project contains three algorithm modelling the chemical reactions.
     * return
     x: the list that contains all steps for the reactions
     t: a list of jump time
+
+## Order of Accurarcy 
+
+   orderAcc.py contains the major code for computing the weak order of accurarcy to tau leaping.
+   
+   Here, we compare the approximate solution --- tau leaping, with the true solution --- gillespie. 
+   
+   
